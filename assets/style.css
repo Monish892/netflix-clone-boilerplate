@@ -1,0 +1,203 @@
+.title>img{
+    width: 100%;
+}
+
+.search>img{
+    position: relative;
+    bottom: 835px;
+    left: 1360px;
+    
+    
+    color: wheat;
+}
+
+.net>img{
+    position: relative;
+    bottom: 850px;
+    width: 90px;
+    left: 56px;
+}
+
+
+.start>ul{
+    position: relative;
+    bottom: 890px;
+    left: 145px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 15px;
+    color: darkgrey;
+    list-style: none;
+
+}
+
+.start>ul>li{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.logo>img{
+    position: relative;
+    bottom: 550px;
+    left: 65px;
+    width: 20px;
+}
+
+.logo>p{
+    position: relative;
+    bottom: 600px;
+    left: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 5px;
+}
+
+
+.b>p{
+    position: relative;
+    font-size: 100px;
+    bottom: 699px;
+    left: 60px;
+    color: white;
+}
+
+.play>img{
+    position: relative;
+    bottom: 790px;
+    left: 100px;
+
+}
+
+.box{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+    bottom: 830px;
+    left: 64px;
+}
+
+
+.e>img{
+    position: relative;
+    bottom: 859px;
+    left: 75px;
+    
+    
+}
+
+.e>p{
+    position: relative;
+    bottom: 895px;
+    left: 100px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.s{
+    width: 90px;
+    height: 33px;
+    background-color: rgb(240, 232, 232,0,799);
+    
+    position: relative;
+    bottom: 935px;
+    border-radius: 5px;
+    left: 175px;
+}
+
+
+.see>p{
+    position: relative;
+    bottom: 850px;
+    color: white;
+    left: 66px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.see>img{
+    position: relative;
+    bottom: 889px;
+    left: 159px;
+    width: 15px;
+}
+
+
+.image>img{
+    position: relative;
+    bottom: 880px;
+    left: 55px;
+    margin: 12px;
+}
+
+.top>p{
+    position: relative;
+    bottom: 890px;
+    left: 66px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-style: normal;
+    background-color: black;
+
+
+}
+
+.top>img{
+    position: relative;
+    bottom: 929px;
+    left: 273px;
+    background-color: black;
+    width: 15px;
+    
+}
+
+body{
+    background-color: black;
+}
+
+
+.rank>img{
+    position: relative;
+    bottom: 920px;
+    margin: 90px;
+    width: 110px;
+    right: 40px;
+}
+
+.l>img{
+    position: relative;
+    bottom: 1260px;
+    margin: 100px;
+    left: 100px;
+    width: 95px;
+}
+
+.t>p{
+    position: relative;
+    bottom: 1310px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    left: 60px;
+
+}
+
+.ol>img{
+    position: relative;
+    bottom: 1300px;
+    left: 30px;
+    margin: 30px;
+    width: 236px;
+}
