@@ -27,7 +27,7 @@
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     gap: 15px;
-    color: darkgrey;
+    color: black;
     list-style: none;
 
 }
@@ -200,4 +200,34 @@ body{
     left: 30px;
     margin: 30px;
     width: 236px;
+}
+
+.m>img{
+    position: relative;
+    bottom: 1170px;
+    margin: 20px;
+    width: 250px;
+    left: 30px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.m>p{
+    color: white;
+    position: relative;
+    bottom: 1410px;
+    left:60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.i>img{
+    position: relative;
+    bottom: 1448px;
+    left: 171px;
+    width: 15px;
 }
